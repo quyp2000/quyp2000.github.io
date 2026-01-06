@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Fifth-year Ph.D. candidate in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) (THU) since 2021, under the supervision of [Prof. Jian Wang](https://web.ee.tsinghua.edu.cn/wangjian1/zh_CN/index.htm).
 I am also very fortunate to collaborate with [Prof. Jintao Wang](https://scholar.google.com/citations?user=0VH0ULYAAAAJ&hl=zh-CN&oi=ao).
-Before that, I received my Bachelor's degree from the Department of Electronic Engineering at Tsinghua University.
+Before that, I received my Bachelor's degree from the Department of Electronic Engineering, Tsinghua University.
 
 My current research interests and past experience can be summarized as follows:
 - 1️⃣ Generative Models: Visual Representation Generation;
@@ -29,19 +29,19 @@ My current research interests and past experience can be summarized as follows:
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Visual Generation and Enhancement
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/varsr.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**ICML 2025**] [Visual Autoregressive Modeling for Image Super-Resolution](https://arxiv.org/abs/2501.18993) \\
+**Yunpeng Qu**, Kun Yuan, Jinhua Hao, Kai Zhao, Qizhi Xie, Ming Sun, Chao Zhou
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Code**]([https://github.com/sallymmx/ActionCLIP](https://github.com/quyp2000/VARSR)) &nbsp;
+[![](https://img.shields.io/github/stars/sallymmx/ActionCLIP?style=social&label=Code+Stars)]([https://github.com/sallymmx/ActionCLIP](https://github.com/quyp2000/VARSR))
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
