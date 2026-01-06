@@ -29,7 +29,7 @@ My current research interests and past experience can be summarized as follows:
 
 # 📝 Publications
 
-## Visual Generation and Enhancement
+### Visual Generation and Enhancement
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/varsr.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,7 +54,7 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
-## Low-level Understanding
+### Low-level Understanding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kvq.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -101,7 +101,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 </div>
 
-## AI for Wireless Communications
+### AI for Wireless Communications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2024</div><img src='images/tldnn.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -141,7 +141,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 </div>
 
-#### 📑 Other Papers
+### 📑 Other Papers
 - ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) <span style="color:red"></span> <br>
 Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 
