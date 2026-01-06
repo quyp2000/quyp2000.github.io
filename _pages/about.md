@@ -101,6 +101,50 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 </div>
 
+## AI for Wireless Communications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2024</div><img src='images/tldnn.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**IEEE Transactions on Vehicular Technology**] [Enhancing automatic modulation recognition through robust global feature extraction](https://ieeexplore.ieee.org/abstract/document/10744587/) \\
+**Yunpeng Qu**, Zhilin Lu, Rui Zeng, Jintao Wang, Jian Wang
+
+[**Code**](https://github.com/qyp2000/TLDNN) &nbsp;
+[![](https://img.shields.io/github/stars/qyp2000/TLDNN?style=social&label=Code+Stars)](https://github.com/qyp2000/TLDNN)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2024</div><img src='images/clasp.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**IEEE Wireless Communications Letters**] [Contrastive Language-Signal Prediction for Automatic Modulation Recognition](https://ieeexplore.ieee.org/abstract/document/10684251) \\
+**Yunpeng Qu**, Zhilin Lu, Bingyu Hui, Jintao Wang, Jian Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/cacd.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**IEEE Wireless Communications Letters**] [Channel-Aware Multi-Domain Feature Extraction for Automatic Modulation Recognition in MIMO Systems](https://arxiv.org/pdf/2512.04899) \\
+**Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jintao Wang, Jian Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC2025-Fall</div><img src='images/hifi.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**IEEE Vehicular Technology Conference**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/pdf/2511.23258) \\
+**Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jian Wang
+
+</div>
+</div>
+
+#### 📑 Other Papers
+- ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) 
+Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
+
 # 🎖 Honors and Awards
 - *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
 - *2022* Finalist Prize at the 1st Construction Robot Innovtion Competition, Guoqiang Research Institute, Tsinghua University.
