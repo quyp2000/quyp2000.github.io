@@ -23,7 +23,7 @@ Before that, I also received my Bachelor's degree from the [Department of Electr
 
 My current research interests and past experience can be summarized as follows:
 - 1️⃣ Generative Models: Visual Representation and Generation;
-- 2️⃣ Low-level Vision: Visual Low-level understanding, Processing, and Enhancement;
+- 2️⃣ Low-level Vision: Visual Low-level Understanding, Processing, and Enhancement;
 - 3️⃣ Wireless Communications: AI for Physical Layer.
 
 
