@@ -151,7 +151,7 @@ Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 
 
 # 🎖 Honors and Awards
-- *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
+- *2022,2024,2025* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
 - *2022* Finalist Prize at the 1st Construction Robot Innovtion Competition, Guoqiang Research Institute, Tsinghua University.
 - *2020* **🥈Second place** at the Drone Challenge, 21st China Robot Competition & RoboCup China Open.
 - *2020* Comprehensive Scholarship for Undergraduate Student, Tsinghua University.
