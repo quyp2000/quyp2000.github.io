@@ -68,6 +68,39 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/qptv2.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ACM MM 2024**] [QPT V2: Masked Image Modeling Advances Visual Scoring](https://dl.acm.org/doi/pdf/10.1145/3664647.3680721) \\
+Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
+
+[**Code**](https://github.com/KeiChiTse/QPT-V2) &nbsp;
+[![](https://img.shields.io/github/stars/KeiChiTse/QPT-V2?style=social&label=Code+Stars)](https://github.com/KeiChiTse/QPT-V2)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kvq.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2024**] [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_KVQ_Kwai_Video_Quality_Assessment_for_Short-form_Videos_CVPR_2024_paper.pdf) \\
+Yiting Lu, Xin Li, Yajing Pei, Kun Yuan, Qizhi Xie, **Yunpeng Qu**, Ming Sun, Chao Zhou, Zhibo Chen
+
+[**Code**](https://lixinustc.github.io/projects/KVQ/) &nbsp;
+[![](https://img.shields.io/github/stars/lixinustc/KVQ-Challenge-CVPR-NTIRE2024?style=social&label=Code+Stars)](https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/score.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Preprint**] [Bridging Video Quality Scoring and Justification via Large Multimodal Models](https://arxiv.org/pdf/2506.21011) \\
+Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
 - *2022* Finalist Prize at the 1st Construction Robot Innovtion Competition, Guoqiang Research Institute, Tsinghua University.
