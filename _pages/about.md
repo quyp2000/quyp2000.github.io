@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Fifth-year Ph.D. candidate in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) (THU) since 2021, under the supervision of [Prof. Jian Wang](https://web.ee.tsinghua.edu.cn/wangjian1/zh_CN/index.htm).
 I am also very fortunate to collaborate with [Prof. Jintao Wang](https://scholar.google.com/citations?user=0VH0ULYAAAAJ&hl=zh-CN&oi=ao) and [Prof. Yuan Shen](https://oa.ee.tsinghua.edu.cn/~shenyuan/) during my Ph.D. study.
-Before that, I received my Bachelor's degree from the Department of Electronic Engineering, Tsinghua University.
+Before that, I also received my Bachelor's degree from the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 My current research interests and past experience can be summarized as follows:
 - 1️⃣ Generative Models: Visual Representation and Generation;
@@ -145,6 +145,10 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 - ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) <span style="color:red"></span> <br>
 Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 
+# 📖 Educations
+- *2021.09 - now:*  Ph.D. Candidate in the Department of Electronic Engineering, Tsinghua University, China.
+- *2017.09 - 2021.06:* B.Eng in the Department of Electronic Engineering, Tsinghua University, China.
+
 
 # 🎖 Honors and Awards
 - *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
@@ -155,10 +159,6 @@ Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 - *2019* Bronze Award for Student Social Practice, Tsinghua University.
 - *2019* Third-class Award of North China Regional Competition, National University Students Intelligent Car Race.
 - *2018,2019* Arts and Cultural Excellence Scholarship for Undergraduate Student, Tsinghua University. 
-
-# 📖 Educations
-- *2021.09 - now:*  Ph.D. Candidate in the Department of Electronic Engineering, Tsinghua University, China.
-- *2017.09 - 2021.06:* B.Eng in the Department of Electronic Engineering, Tsinghua University, China. 
 
 
 # 🎓 Service 
